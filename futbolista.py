@@ -1,4 +1,3 @@
-from tokenize import String
 from deportista import Deportista
 from persona import Persona
 
